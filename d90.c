@@ -1,3 +1,5 @@
+/*Write a C function which will perform an insertion to the immediate left of the K
+th node in the singly linked list.*/
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node
